@@ -50,5 +50,5 @@ Therefore, all I need to do is create my own domain using requestbin website, an
 ![alt text](/images/image12.png)
 
 Lastly, decode the flag from Base64
-
+a
 ```RWSC{b045887cbadfda25b29db243a18de38cb1cbfb14}```

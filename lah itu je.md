@@ -4,7 +4,7 @@
 
 First thing first, when we take a look at the website, it is presented with a login form
 
-![alt text](/images/image.png)
+![alt text](/images/pleaseogin.png)
 
 Intercepting it using burp suite, it shows that there is another path called register.php
 

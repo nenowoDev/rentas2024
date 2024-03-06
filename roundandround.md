@@ -40,7 +40,7 @@ if we put the new values into letter to number, we get
 
 So the flag is RWSC{PIZZINI_CIPHER_WAS_EAZY}
 
-After that, I check out what Pizzi Cipher is and its actually Caesar+Letter Number .
+After that, I check out what Pizzini Cipher is and its actually Caesar+Letter Number .
 
 If we go to [Pizzini Decrypter](https://www.cachesleuth.com/pizzini.html) and put in our original 2126226{19122929121712_6121911821_26422_842928}, we instantly got it lmao
 
